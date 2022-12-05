@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exoskycode&label=Profile%20views&color=0e75b6&style=flat" alt="exoskycode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exoskycode" alt="exoskycode" /></a> </p>
 
 - 🔭 I’m currently working on [Eden](https://github.com/ExoskyCode/Eden)
 
