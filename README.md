@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exoskycode&label=Profile%20views&color=0e75b6&style=flat" alt="exoskycode" /> </p>
 
-
 - 🔭 I’m currently working on [Eden](https://github.com/ExoskyCode/Eden)
 
 - 🌱 I’m currently learning **React, Adonis, TypeScript**
