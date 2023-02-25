@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Exosku</h1>
+<h1 align="center">Hi 👋, I'm Exosky</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 - 🌱 I’m currently learning **Nextjs, Typescript, node**
