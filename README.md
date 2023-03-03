@@ -1,5 +1,4 @@
 ### Hi there 👋
-I represent myself as a <#myself> and I'm independant. I've learn Web, Mobile and Backend, I try to touch everything. I prefer the web for now.
 ### Contact me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Exosky___) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/324517898389291008)
 #### Languages
