@@ -44,7 +44,5 @@ Hi 👋, my name is Jules, AKA Exosky. I'm 16 years old and I'm a young French w
 <hr />
 
 <br>
-<br>
-<br>
 
 [![ExoskyCode's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoskyCode&layout=compact&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true&count_private=false)](https://github.com/ExoskyCode/ExoskyCode)
