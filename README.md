@@ -1,6 +1,8 @@
 ### Introduction
 
-Hi 👋, my name is Jules, AKA Exosky. I'm 16 years old and I'm a young French web developer. For the past two years, I've been self-taught and have learned a lot about various concepts such as web and mobile development, Ui/Ux design, and web marketing.
+Hi 👋, my name is Jules, AKA Exosky.
+I'm 16 years old and I'm a young French web developer.
+For the past two years, I've been self-taught and have learned a lot about various concepts such as web and mobile development, Ui/Ux design, and web marketing.
 
 <hr />
 
