@@ -47,4 +47,4 @@ For the past two years, I've been self-taught and have learned a lot about vario
 
 <br>
 
-[![ExoskyCode's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoskyCode&layout=compact&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true&count_private=true)](https://github.com/ExoskyCode/ExoskyCode)
+[![Exosky12's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Exosky12&layout=compact&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true&count_private=true)](https://github.com/ExoskyCode/ExoskyCode)
