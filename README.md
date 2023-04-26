@@ -1,4 +1,4 @@
-<img style='width: 100vw' src='./githubwallpaper.png'>
+<img style='width: 100vw; height: 600px' src='./githubwallpaper.png'>
 
 ### Introduction
 
