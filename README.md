@@ -49,10 +49,7 @@ For the past two years, I've been self-taught and have learned a lot about vario
 
 <br>
 
-[![Exosky12's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Exosky12&show_icons=true&count_private=true&&bg_color=70,1C2A7B,1C669F&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/ExoskyCode/ExoskyCode)
-
-<br>
-<br>
+[![Exosky12's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Exosky12&show_icons=true&count_private=true&&bg_color=70,1C2A7B,1C669F&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Exosky12/Exosky12)
 
 <!--START_SECTION:waka-->
 
