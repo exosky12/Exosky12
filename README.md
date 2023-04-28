@@ -53,6 +53,14 @@ For the past two years, I've been self-taught and have learned a lot about vario
 
 <!--START_SECTION:waka-->
 
+```text
+From: 25 April 2023 - To: 27 April 2023
 
+Total Time: 50 mins
+
+TypeScript   43 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.17 %
+Markdown     6 mins          >>>----------------------   12.77 %
+CSS          0 secs          -------------------------   00.06 %
+```
 
 <!--END_SECTION:waka-->
