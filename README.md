@@ -54,13 +54,13 @@ For the past two years, I've been self-taught and have learned a lot about vario
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 25 April 2023 - To: 03 May 2023
 
-Total Time: 2 hrs 53 mins
+Total Time: 4 hrs 1 min
 
-TypeScript   2 hrs 46 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.96 %
-Markdown     6 mins          >------------------------   04.02 %
-CSS          0 secs          -------------------------   00.02 %
+TypeScript   3 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.95 %
+Markdown     7 mins          >------------------------   03.03 %
+CSS          0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
