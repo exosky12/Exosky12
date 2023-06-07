@@ -10,7 +10,7 @@ For the past two years, I've been self-taught and have learned a lot about vario
 
 ### Actually:
 
-- 🤓 I’m currently learning Nextjs & Nodejs
+- 🤓 I’m currently learning Nextjs
 - 🎨 I like design and everything that surrounds graphic design
 - 🏆 I'm a big fan of CSGO competition and I've also dabbled in some competition myself
 - 🛩️ I love to travel and discover cultures and countries
