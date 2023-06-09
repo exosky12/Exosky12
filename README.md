@@ -54,20 +54,20 @@ For the past two years, I've been self-taught and have learned a lot about vario
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2023 - To: 06 June 2023
+From: 25 April 2023 - To: 07 June 2023
 
-Total Time: 7 hrs 43 mins
+Total Time: 8 hrs 49 mins
 
-TypeScript       6 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>-----   78.95 %
-GitIgnore file   33 mins         >>-----------------------   07.14 %
-Markdown         31 mins         >>-----------------------   06.88 %
-CSS              10 mins         >------------------------   02.37 %
-JSON             5 mins          -------------------------   01.19 %
-XML              4 mins          -------------------------   01.02 %
-Text             3 mins          -------------------------   00.75 %
-AUTO_DETECTED    2 mins          -------------------------   00.57 %
-.env file        2 mins          -------------------------   00.52 %
-Prisma           2 mins          -------------------------   00.52 %
+TypeScript       7 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>-----   79.95 %
+GitIgnore file   33 mins         >>-----------------------   06.25 %
+Markdown         31 mins         >>-----------------------   06.02 %
+CSS              12 mins         >------------------------   02.35 %
+JSON             6 mins          -------------------------   01.21 %
+XML              5 mins          -------------------------   01.00 %
+JavaScript       5 mins          -------------------------   00.98 %
+Text             3 mins          -------------------------   00.66 %
+AUTO_DETECTED    2 mins          -------------------------   00.50 %
+.env file        2 mins          -------------------------   00.46 %
 ```
 
 <!--END_SECTION:waka-->
