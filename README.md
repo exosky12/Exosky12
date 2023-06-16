@@ -54,7 +54,7 @@ For the past two years, I've been self-taught and have learned a lot about vario
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2023 - To: 13 June 2023
+From: 25 April 2023 - To: 14 June 2023
 
 Total Time: 15 hrs 42 mins
 
