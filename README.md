@@ -17,57 +17,8 @@ For the past two years, I've been self-taught and have learned a lot about vario
 
 <hr />
 
-### Actual Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exosky12&show_icons=true&locale=en&layout=compact" alt="exosky12" /></p>
 
-<img align="left" alt="Nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Es Lint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />
-<img align="left" alt="FireBase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exosky12&show_icons=true&cache_seconds=180&locale=en" alt="exosky12" /></p>
 
-<br>
-<hr />
-
-### Design
-
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Behance" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" style="padding-right:10px;" />
-
-<br>
-<hr />
-
-<br>
-
-[![Exosky12's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Exosky12&show_icons=true&count_private=true&&bg_color=70,1C2A7B,1C669F&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Exosky12/Exosky12)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 25 April 2023 - To: 04 July 2023
-
-Total Time: 18 hrs 24 mins
-
-TypeScript       15 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>>----   83.63 %
-Markdown         35 mins         >------------------------   03.19 %
-JavaScript       35 mins         >------------------------   03.18 %
-GitIgnore file   34 mins         >------------------------   03.08 %
-CSS              21 mins         -------------------------   01.96 %
-JSON             18 mins         -------------------------   01.68 %
-TSConfig         9 mins          -------------------------   00.86 %
-AUTO_DETECTED    6 mins          -------------------------   00.56 %
-XML              5 mins          -------------------------   00.54 %
-YAML             3 mins          -------------------------   00.36 %
-```
-
-<!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exosky12&" alt="exosky12" /></p>
