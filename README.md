@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey, I'm Exosky!</h1>
-<h3 align="center">Full-stack dev, pixel pusher & code alchemist from France 🇫🇷</h3>
+<h3 align="center">Front-end dev from France 🇫🇷</h3>
 
 <p align="center">
   <a href="https://twitter.com/exosky12_" target="blank">
