@@ -52,10 +52,6 @@ I'm a developer with a strong focus on TypeScript, working primarily with Adonis
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exosky12&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exosky12&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exosky12&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
