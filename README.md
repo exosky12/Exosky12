@@ -37,9 +37,3 @@ I'm a developer with a strong focus on TypeScript, working primarily with Adonis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exosky12&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
